@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: 3D Visual Grounding
+description: Project 3D Visual Grounding with Transformers
+img: assets/img/12.jpg
 importance: 2
-category: 
-giscus_comments: true
+category: University
 ---
 
 Every project has a beautiful feature showcase page.
