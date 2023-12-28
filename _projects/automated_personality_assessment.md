@@ -7,11 +7,7 @@ importance: 4
 category: University
 ---
 <!-- Thesis image and description -->
-<div class="row justify-content-center">
-    <div class="col-auto">
-        {% include figure.html path="assets/img/learn2grab_without_drop.gif" alt="Scaling Laws for ECNNs" class="img-fluid rounded z-depth-1" width="300" height="300"%}
-    </div>
-</div>
+
 <!-- Download buttons -->
 <div class="row mt-4 justify-content-center">
     <div class=".col-sm">
