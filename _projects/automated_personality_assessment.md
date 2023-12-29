@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Automated Personality Assessment
-description: Application Project with Research Group Social Computing at TUM and Siemens
+title: Personality Assessment with Large Language Models
+description: Application Project with Research Group Social Computing at TUM
 img: assets/img/Wiki-grafik_peats-de_big_five_ENG.svg
 importance: 4
 category: University
