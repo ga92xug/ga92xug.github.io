@@ -8,51 +8,26 @@
     - name: Languages
       value: German (nativ), English (C2), Spanish (B2)
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Master of Science
-      institution: Technical University of Munich, Garching, Germany
-      year: 2021 - 
-      description:
-        - title: Data Engineering and Analytics
-          contents:
-            - Top 15% of class
-            - Thesis - Scaling Laws for Equivariant Convolutional Neural Networks
-    - title: Bachelor of Science
-      institution: Technical University of Munich, Garching, Germany
-      year: 03.2020 - 03.2021
-      description:
-        - title: Computer Science
-          contents:
-            - 120/180 ECTS, Minor mathematics
-            - Development of compiler in java for introduction to programming
-
-    - title: Bachelor of Science
-      institution: Technical University of Munich, Garching, Germany
-      year: 10.2016 - 03.2020
-      description:
-        - title: Management and Technology
-          contents:
-            - Grade 1.9, Minor computer engineering
-            - Thesis - Natural language processing for financial forecasting
-
 
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant in DL for Medicine
+      institution: Helmholz Institute
+      year: 01.2024 - Present
+      description:
+        - Datacenter scale pre-training of Equivariant Convolutional Networks for skin
+cancer detection
+        - Domain shift training for robust performance under changing data sources
     - title: Research assistant
       institution: Chair for Software Engineering at TUM
       year: 01.2023 - 04.2023
       description:
-        - Explainable AI for large language models
-        # - Description 2.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
+        - Survey article on explainable AI in NLP in the context of LLMs
+        - Detecting ChatGPT - A Survey of the State of Detecting ChatGPT-Generated
+Text (https://arxiv.org/abs/2309.07689)
 
-    - title: ML Engineering Working Student
+    - title: ML Engineer - Project Lead
       company: Infineon Technologies
       year: 10.2022 - 12.2022
       description:
@@ -63,20 +38,52 @@
       company: Kiera
       year: 08.2022 - 01.2023
       description:
-        - Command line natural language code generation tool
+        - Command line code generation tool (https://www.kiera.ai/)
+        - Explain the command in natural language, and Kiera generates the code
 
-    - title: Quality Development Working Student
+    - title: Working Student Quality Development
       company: FlixBus
       year: 05.2019 - 10.2022
       description:
-        - Development of tracking tool for bus driver performance. Including NLP comment analysis for phone usage detection
-        - Automatic dashboard creation for quality control of operating partners
+        - Bus driver performance tracking tool with comment analysis for phone usage detection with NLP
+        - Automatic dashboard for quality control of operating partners
 
     #- title: Founder tutor student matching platform
     #  institution: Würmtutor
     #  year: 1909 - 1911
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science
+      institution: Technical University of Munich, Garching, Germany
+      year: 2021 - Present
+      description:
+        - title: Data Engineering and Analytics
+          contents:
+            - Research AI projects (https://ga92xug.github.io/Projects/):
+                - Siemens - Automatic Interview Assessment
+                - Google founded - Learning World Models by Self-Supervised Exploration
+            - Top 15% of class
+            - Thesis - Scaling Laws for Equivariant Convolutional Neural Networks
+    - title: Bachelor of Science
+      institution: Technical University of Munich, Garching, Germany
+      year: 03.2020 - 03.2021
+      description:
+        - title: Computer Science
+          contents:
+            - 120/180 ECTS, Minor mathematics
+            - Development of compiler in Java for introduction to programming
 
+    - title: Bachelor of Science
+      institution: Technical University of Munich, Garching, Germany
+      year: 10.2016 - 03.2020
+      description:
+        - title: Management and Technology
+          contents:
+            - Grade 1.9, Minor computer engineering
+            - Thesis - Natural language processing for financial forecasting
+            
 
 
 # - title: Academic Interests
