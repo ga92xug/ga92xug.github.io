@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I'm currently writing my Master's Thesis at [AI in Medicine](https://aim-lab.io/) at [TUM](https://www.tum.de/). I study Data Engineering an Analytics with a focus on Deep Learning research. My interests are in:
-- Explainable AI (XAI)
+- Explainable AI (xAI)
 - Self-Supervised Learning (SSL)
 - Geometric Deep Learning: include symmetry information into model architecture to improve efficiency and generalization
  

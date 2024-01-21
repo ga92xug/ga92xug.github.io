@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished master's thesis 👨‍🎓
+Finished <a href="https://ga92xug.github.io/projects/scaling_laws/">master's thesis</a> 👨‍🎓

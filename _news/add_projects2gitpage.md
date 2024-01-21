@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Add Projects of recent years to github page ✅
+Add <a href="https://ga92xug.github.io/Projects/">Projects</a> of recent years to github page ✅
