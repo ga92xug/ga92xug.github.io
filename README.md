@@ -241,6 +241,7 @@ You need to take the following steps to get `al-folio` up and running on your lo
 $ docker compose pull
 $ docker compose up
 ```
+# docker run -p 8080:8080 --name jekyll -v $(pwd):/srv/jekyll amirpourmand/al-folio:v0.10.1
 
 Note that when you run it for the first time, it will download a docker image of size 400MB or so. To see the template running, open your browser and go to `http://localhost:8888`. You should see a copy of the theme's demo website.
 

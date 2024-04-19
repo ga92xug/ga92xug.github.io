@@ -12,25 +12,30 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Scientist
+      institution: Mercedes-Benz AG
+      year: 04.2024 - Present
+      description:
+        - Development of Sales Scenario Simulation
     - title: Research Assistant in DL for Medicine
       institution: Helmholz Institute
-      year: 01.2024 - Present
+      year: 01.2024 - 04.2024
       description:
-        - Datacenter scale pre-training of Equivariant Convolutional Networks for skin cancer detection
-        - Domain shift training for robust performance under changing data sources
+        - Skin cancer detection 3% improvement over SOTA (https://github.com/hlzl/scaling-laws-ecnn)
+        - Low data performance increased by 5% and robustness to domain shift by 10% with new Equivariant Convolutional Neural Networks
     - title: Research assistant
       institution: Chair for Software Engineering at TUM
       year: 01.2023 - 04.2023
       description:
-        - Survey article on explainable AI in NLP in the context of LLMs
+        - Survey article in RANLP-2023 on explainable AI in NLP in the context of LLMs
         - <a href="https://arxiv.org/abs/2309.07689">Detecting ChatGPT - A Survey of the State of Detecting ChatGPT-Generated Text</a> 
 
     - title: ML Engineer - Project Lead
       company: Infineon Technologies
       year: 10.2022 - 12.2022
       description:
-        - Anomaly detection with time series ML analysis for motor maintenance
-        - Projectlead of the TUM.AI proof of concept student team
+        - Predictive motor maintenance through anomaly detection leads to a potential 5x cost reduction
+        - Project lead of the time series analysis student team
 
     - title: Co-Founder
       company: Kiera
@@ -43,7 +48,7 @@
       company: FlixBus
       year: 05.2019 - 10.2022
       description:
-        - Bus driver performance tracking tool with comment analysis for phone usage detection with NLP
+        - Improved feeling of passenger safety by 13% through phone usage detection of bus drivers with NLP comment analysis
         - Automatic dashboard for quality control of operating partners
 
     #- title: Founder tutor student matching platform
