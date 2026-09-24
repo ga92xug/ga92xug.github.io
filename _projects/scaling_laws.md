@@ -6,9 +6,6 @@ img: assets/img/scaling_laws_ecnns.gif
 importance: 1
 category: University
 ---
-# Coming soon
-We are currently working on a publication links and additional information will be added after Release. 
-
 <!-- Thesis image and description -->
 <div class="row justify-content-center">
     <div class="col-auto">
