@@ -28,7 +28,7 @@ We are currently working on a publication links and additional information will 
         </a>
     </div>
     <div class=".col-sm">
-        <a href="path_to_code" class="btn btn-primary">
+        <a href="https://github.com/ga92xug/master-thesis" class="btn btn-primary">
             <i class="fa fa-code"></i> Code
         </a>
     </div>
