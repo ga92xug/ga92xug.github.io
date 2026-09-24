@@ -15,7 +15,7 @@ category: University
 <!-- Download buttons -->
 <div class="row mt-4 justify-content-center">
     <div class=".col-sm">
-        <a href="path_to_thesis" class="btn btn-primary">
+        <a href="/assets/pdf/scaling_laws_ecnns_thesis.pdf" class="btn btn-primary">
             <i class="fa fa-download"></i> Thesis
         </a>
     </div>
