@@ -25,7 +25,7 @@ category: University
         </a>
     </div>
     <div class=".col-sm">
-        <a href="https://github.com/ga92xug/master-thesis" class="btn btn-primary">
+        <a href="https://github.com/ga92xug/scaling-laws-ecnn" class="btn btn-primary">
             <i class="fa fa-code"></i> Code
         </a>
     </div>
